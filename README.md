@@ -1,5 +1,7 @@
 # 🐍 SNAKE ARCADE
 
+![Snake Arcade gameplay](assets/images/snake-arcade.png)
+
 A browser snake game built as a lovingly crafted pixel-art homage to the original Game Boy — a strict 4-shade green LCD world, chunky sprites, and stepped `steps()` motion, played inside a physical DMG-style handheld shell.
 
 ## 📖 Description
